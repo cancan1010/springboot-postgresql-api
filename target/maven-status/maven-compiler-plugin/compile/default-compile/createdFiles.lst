@@ -1,0 +1,5 @@
+com\caneraysan\demo\controller\PersonController.class
+com\caneraysan\demo\repository\PersonRepository.class
+com\caneraysan\demo\model\Person.class
+com\caneraysan\demo\DemoApplication.class
+com\caneraysan\demo\service\PersonService.class
